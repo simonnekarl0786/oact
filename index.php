@@ -1,4 +1,4 @@
 <?php
-header("Location: https://pestssolution.us/nor/index.html");
+header("Location: https://www.landrys.com/about/bike-repair-maintenance-pg62.htm");
 die();
 ?>
